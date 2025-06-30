@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "url": "https://anapioficeandfire.com/api/books/1",
+      "name": "A Game of Thrones",
+      "isbn": "978-0553103540",
+      "authors": ["George R. R. Martin"],
+      "numberOfPages": 694,
+      "publisher": "Bantam Books",
+      "country": "United States",
+      "mediaType": "Hardcover",
+      "released": "1996-08-01T00:00:00"
+    },
+    {
+      "url": "https://anapioficeandfire.com/api/books/2",
+      "name": "A Clash of Kings",
+      "isbn": "978-0553108033",
+      "authors": ["George R. R. Martin"],
+      "numberOfPages": 768,
+      "publisher": "Bantam Books",
+      "country": "United States",
+      "mediaType": "Hardcover",
+      "released": "1998-11-16T00:00:00"
+    }
+  ]
+}
